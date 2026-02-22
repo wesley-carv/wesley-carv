@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Wesley
 
-<!--
-**wesley-carv/wesley-carv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+💻 Desenvolvedor Fullstack  
 
-Here are some ideas to get you started:
+Atualmente estou focado em desenvolver aplicações web escaláveis utilizando React, Node.js, Django e Laravel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias
+
+Frontend:
+- React
+- Next.js
+- TypeScript
+
+Backend:
+- Node.js
+- NestJS
+- Django
+- Laravel
+
+Banco de Dados:
+- PostgreSQL
+- MySQL
+- MongoDB
+
+Ferramentas:
+- Docker
+- Git
+- Linux
+
+---
+
+## 🚀 Em construção
+
+Atualmente estou desenvolvendo novos projetos para compor meu portfólio com foco em:
+
+- APIs REST estruturadas
+- Autenticação JWT
+- Dockerização
+- Deploy em produção
+- Testes automatizados
+
+---
+
+## 📫 Contato
+
+LinkedIn: (coloque aqui)
+Email: (coloque aqui)
