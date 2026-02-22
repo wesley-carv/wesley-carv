@@ -46,5 +46,5 @@ Atualmente estou desenvolvendo novos projetos para compor meu portfólio com foc
 
 ## 📫 Contato
 
-LinkedIn: (coloque aqui)
-Email: (coloque aqui)
+LinkedIn: https://www.linkedin.com/in/wesley-carvalho00
+Email: wcarvalho516@gmail.com
