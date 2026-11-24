@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Wesley
 
-🎓 Formado em Engenharia de Software pela Unopar  
+🎓 Formado em Engenharia de Software pela Anhanguera  
 💻 Desenvolvedor Fullstack  
 
 Atualmente estou focado em desenvolver aplicações web escaláveis utilizando React, Node.js, Django e Laravel.
